@@ -1,5 +1,4 @@
-{
-    "products": [
+[
         {
             "id": 1,
             "name": "Ferry from Port Blair to Havelock",
@@ -29,4 +28,3 @@
             "price": 130
         }
     ]
-}
